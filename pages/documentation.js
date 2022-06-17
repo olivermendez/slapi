@@ -6,3 +6,5 @@ function documentation() {
     </div>
   );
 }
+
+export default documentation;
